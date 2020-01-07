@@ -2,8 +2,9 @@
 
 [jaenster](https://github.com/jaenster)
 
-A simple multi client. Like the old D2Loader for 1.10
+A simple multi client, like the old D2Loader for 1.10 in the past.
 
+- download [D2Loader1.14.exe](https://github.com/blizzhackers/d2tools/raw/master/d2loader/D2Loader1.14.exe)
 - Move to your game folder
 - Only alters client for a second by start up, and changes it back. Will seem unchanged for blizzard.
 - Just put in your game folder, and make a shortcut to your desktop, add stuff like -w ;)
