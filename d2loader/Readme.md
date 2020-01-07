@@ -1,4 +1,4 @@
-# D2Launcher
+# D2Loader
 
 [jaenster](https://github.com/jaenster)
 

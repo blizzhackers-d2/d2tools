@@ -2,5 +2,5 @@
 
 ---
 
-* [D2Launcher](d2launcher/#D2Launcher)
+* [D2Loader](d2loader/#d2loader)
 
