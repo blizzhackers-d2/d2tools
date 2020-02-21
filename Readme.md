@@ -11,4 +11,6 @@
 	* [proxifier .PPX reader/writer](http://tools.harrogath.com/ppxwriter.html)
 	* [rings/amulets evaluation](http://tools.harrogath.com/valuecalc.html)
 
-* [other d2 tools](https://github.com/blizzhackers-d2/D2LoD-files)
+* other d2 tools:
+	* [D2LoD-files](https://github.com/blizzhackers-d2/D2LoD-files): D2key utilities, D2LoD torrent files, Hero Editor 1.04, other tools and links
+	* [d2data](https://github.com/blizzhackers/d2data): d2 data files - https://blizzhackers.github.io/d2data/
