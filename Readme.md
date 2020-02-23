@@ -11,7 +11,9 @@
 	* [proxifier .PPX reader/writer](http://tools.harrogath.com/ppxwriter.html)
 	* [rings/amulets evaluation](http://tools.harrogath.com/valuecalc.html)
 
-* other d2 tools:
-	* [D2LoD-files](https://github.com/blizzhackers-d2/D2LoD-files): D2key utilities, D2LoD torrent files, Hero Editor 1.04, other tools and links
-	* [d2data](https://github.com/blizzhackers/d2data): d2 data files - https://blizzhackers.github.io/d2data/
-	* [DeepStats](https://gheedsfortune.com): D2 stats aggregator, item viewer, and SOJ sales monitor
+* [D2LoD-files](https://github.com/blizzhackers-d2/D2LoD-files): D2key utilities, D2LoD torrent files, Hero Editor 1.04, other tools and links
+
+* [d2data](https://github.com/blizzhackers/d2data): d2 data files - https://blizzhackers.github.io/d2data/
+
+* [DeepStats](https://gheedsfortune.com): D2 stats aggregator, item viewer, and SOJ sales monitor
+	* the feature roadmap: https://trello.com/b/Keeegiqa/gheedsfortune-feature-roadmap
